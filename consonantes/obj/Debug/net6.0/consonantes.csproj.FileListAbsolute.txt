@@ -1,0 +1,14 @@
+C:\Users\csi23-dmunnco\source\repos\consonantes\obj\Debug\net6.0\consonantes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\csi23-dmunnco\source\repos\consonantes\obj\Debug\net6.0\consonantes.AssemblyInfoInputs.cache
+C:\Users\csi23-dmunnco\source\repos\consonantes\obj\Debug\net6.0\consonantes.AssemblyInfo.cs
+C:\Users\csi23-dmunnco\source\repos\consonantes\obj\Debug\net6.0\consonantes.csproj.CoreCompileInputs.cache
+C:\Users\csi23-dmunnco\source\repos\consonantes\bin\Debug\net6.0\consonantes.exe
+C:\Users\csi23-dmunnco\source\repos\consonantes\bin\Debug\net6.0\consonantes.deps.json
+C:\Users\csi23-dmunnco\source\repos\consonantes\bin\Debug\net6.0\consonantes.runtimeconfig.json
+C:\Users\csi23-dmunnco\source\repos\consonantes\bin\Debug\net6.0\consonantes.dll
+C:\Users\csi23-dmunnco\source\repos\consonantes\bin\Debug\net6.0\consonantes.pdb
+C:\Users\csi23-dmunnco\source\repos\consonantes\obj\Debug\net6.0\consonantes.dll
+C:\Users\csi23-dmunnco\source\repos\consonantes\obj\Debug\net6.0\refint\consonantes.dll
+C:\Users\csi23-dmunnco\source\repos\consonantes\obj\Debug\net6.0\consonantes.pdb
+C:\Users\csi23-dmunnco\source\repos\consonantes\obj\Debug\net6.0\consonantes.genruntimeconfig.cache
+C:\Users\csi23-dmunnco\source\repos\consonantes\obj\Debug\net6.0\ref\consonantes.dll
